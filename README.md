@@ -2,7 +2,9 @@
 
 ## About Me
 
-I'm Naveen Kumar M, with over 12 years of industry experience, I am a seasoned Software Engineer at Bank of America, where I specialize in designing and developing ETL SSIS packages to meet diverse business requirements. My expertise extends to working with MS SQL Server, T-SQL, and Azure Data Factory. I possess a robust background in data warehousing, database design, and modeling. My drive to stay current with industry advancements ensures I bring the best solutions to the table.
+Hello! I'm Naveen Kumar M, a seasoned IT professional with 13 years of extensive experience in the industry. As a Data Engineer, I specialize in ETL processes, SQL Server, and Azure, with a strong focus on designing and developing robust databases and ETL solutions. My expertise spans across data warehousing, database design, and data modeling, allowing me to transform complex data into valuable insights.
+
+Beyond my professional work, I am passionate about sharing knowledge and fostering a community of learners. I am an active speaker and technical blogger, contributing to platforms like C#Corner, Medium, and DZone. My enthusiasm for data drives me to continuously explore and innovate in the field, making me a dedicated data enthusiast.
 
 ## Achievements
 
