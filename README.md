@@ -10,7 +10,8 @@ I'm Naveen Kumar M, with over 12 years of industry experience, I am a seasoned S
 
 ## My Articles
 
-- **[C# Corner Profile](https://www.c-sharpcorner.com/members/naveen-kumar21)**
+- **[C# Corner Articles](https://www.c-sharpcorner.com/members/naveen-kumar21/articles)**
+- **[C# Corner Blogs](https://www.c-sharpcorner.com/members/naveen-kumar21/blogs)**
 - **[Medium](https://medium.com/@navindevan)**
   
 ## Connect with Me
