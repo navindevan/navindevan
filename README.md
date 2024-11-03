@@ -1,24 +1,25 @@
 ## Welcome to My GitHub Profile 👋
 
-## About Me
+## 🚀 About Me
 
 Hello! I'm Naveen Kumar M, a seasoned IT professional with 13 years of extensive experience in the industry. As a Data Engineer, I specialize in ETL processes, SQL Server, and Azure, with a strong focus on designing and developing robust databases and ETL solutions. My expertise spans across data warehousing, database design, and data modeling, allowing me to transform complex data into valuable insights.
 
 Beyond my professional work, I am passionate about sharing knowledge and fostering a community of learners. I am an active speaker and technical blogger, contributing to platforms like C#Corner, Medium, and DZone. My enthusiasm for data drives me to continuously explore and innovate in the field, making me a dedicated data enthusiast.
 
-## Achievements
+## 🎖️ Achievements
 
 - **C# Corner MVP**
 
-## My Articles
+## 📚My Articles
 
 - **[C# Corner Articles](https://www.c-sharpcorner.com/members/naveen-kumar21/articles)**
 - **[C# Corner Blogs](https://www.c-sharpcorner.com/members/naveen-kumar21/blogs)**
 - **[Medium](https://medium.com/@navindevan)**
   
-## Connect with Me
+## 📞 Connect
 
-- **[LinkedIn](https://www.linkedin.com/in/naveenkumarm17/)**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/naveenkumarm):
+- ▶️ [YouTube Channel](https://www.youtube.com/@ttwithnaveen)
 
 Thank you
 
